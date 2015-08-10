@@ -1,0 +1,6 @@
+$ git config --global user.name "your name"
+$ git config --global user.email kin_sambath@yahoo.com
+$ cd "My Documents"
+$ git help add
+$ ls
+cd FirstApp
